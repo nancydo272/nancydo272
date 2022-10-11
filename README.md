@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm nancydo272 or Nancy Do</h1>
 <h3 align="center">Full-stack Software Engineer with a background in healthcare, medicine, pharmaceuticals, biology and chemistry.</h3>
-<img align="right" alt="Women in tech" width="325" src="https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/women-in-tech-pillar-page-blogs-for-women_0.png">
+<img align="right" alt="Women in tech" width="450" src="https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/women-in-tech-pillar-page-blogs-for-women_0.png">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nancydo272&label=Profile%20views&color=0e75b6&style=flat" alt="nancydo272" /> </p>
