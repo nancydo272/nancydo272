@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a couple full-stack MERN projects, [5West Call Bell Center](https://github.com/nancydo272/5WestProject)
 
-- 🌱 I’m currently learning **Python's Flask and Django**
+- 🌱 I’m currently learning **Python's Flask and Django, AWS Cloud Practioner Essentials, Algorithms and Data Structures in JavaScript**
 
 - 💬 Ask me about **Web fundamentals with HTML/CSS/JS or Full Stack Java or MERN**
 
